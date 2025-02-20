@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/345941339064131423/cd56f08ce02f4c7aaba7de57a0515900/artifacts
+end_time: 1739966201658
+entry_point_name: ''
+experiment_id: '345941339064131423'
+lifecycle_stage: active
+run_id: cd56f08ce02f4c7aaba7de57a0515900
+run_name: awesome-dove-792
+run_uuid: cd56f08ce02f4c7aaba7de57a0515900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966201541
+status: 3
+tags: []
+user_id: ukwud

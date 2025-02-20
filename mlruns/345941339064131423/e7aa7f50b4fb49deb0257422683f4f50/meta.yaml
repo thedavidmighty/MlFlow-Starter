@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/345941339064131423/e7aa7f50b4fb49deb0257422683f4f50/artifacts
+end_time: 1739963595532
+entry_point_name: ''
+experiment_id: '345941339064131423'
+lifecycle_stage: active
+run_id: e7aa7f50b4fb49deb0257422683f4f50
+run_name: upbeat-robin-453
+run_uuid: e7aa7f50b4fb49deb0257422683f4f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739963595396
+status: 3
+tags: []
+user_id: ukwud
